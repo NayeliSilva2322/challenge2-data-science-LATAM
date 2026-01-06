@@ -13,7 +13,6 @@ Comprender los factores que influyen en la evasión de clientes mediante el aná
 ## Herramientas Utilizadas
 - Python  
 - Pandas  
-- NumPy  
 - Matplotlib / Plotly  
 - Jupyter Notebook  
 
@@ -40,12 +39,6 @@ El análisis se desarrolló siguiendo una estructura basada en procesos ETL y ED
 
 ## Conclusiones
 Los resultados muestran que la evasión de clientes no depende de una única variable, sino de una combinación de factores. Se identificaron relaciones débiles entre el churn y los cargos mensuales, así como asociaciones negativas con el número de servicios contratados y el gasto total, lo que sugiere que los clientes con mayor vinculación tienden a permanecer más tiempo.
-
----
-
-## Próximos Pasos
-- Desarrollo de modelos predictivos de churn.  
-- Segmentación de clientes para estrategias de retención.  
 
 ---
 
